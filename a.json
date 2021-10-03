@@ -1,0 +1,65 @@
+[
+  {
+    "link": "https://educon.by/index.php/materials/math/funkcii#head1",
+    "title": "Функции и графики - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "icon": "/templates/protostar/favicon.ico",
+    "description": "Функции - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "rating": 0,
+    "is_blocked":0,
+    "type":"text"
+  },
+  {
+    "link": "https://educon.by/index.php/materials/math/funkcii#head13",
+    "title": "Функции и графики - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "icon": "/templates/protostar/favicon.ico",
+    "description": "Функции - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "text"
+  },
+  {
+    "link": "http://mathprofi.ru/grafiki_i_svoistva_funkcij.html",
+    "title": "Графики и свойства элементарных функций",
+    "icon": "/favicon.ico",
+    "description": "",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "text"
+  },
+  {
+    "link": "https://user84060.clients-cdnnow.ru/uploads/5fd9ca3b34eb8315468122.png?sa=X&ved=2ahUKEwixmqTW96zzAhWKk4sKHV5ADX4Q_B16BAgCEAI",
+    "title": "",
+    "icon": "",
+    "description": "",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "image"
+  },
+  {
+    "link": "https://educon.by/index.php/materials/math/funkcii",
+    "title": "Функции и графики - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "icon": "/templates/protostar/favicon.ico",
+    "description": "Функции - Математика - Теория, тесты, формулы и задачи - Обучение Математике, Онлайн подготовка к ЦТ и ЕГЭ.",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "text"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=57T9Vx_tzG4",
+    "title": "ЧТО ТАКОЕ ФУНКЦИЯ? КАК СТРОИТЬ ГРАФИК ФУНКЦИИ. ЕГЭ с Артуром Шарифовым - YouTube",
+    "icon": "https://www.youtube.com/s/desktop/18284868/img/favicon.ico",
+    "description": "Смотри полный курс по подготовке к ЕГЭ по математике : http://www.youtube.com/playlist?list=PLRmiFY80S4R2RyuJnIRJ0jZZwk5smtVo3Я ВКонтакте : http://vk.com/art...",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "video"
+  },
+  {
+    "link": "https://skysmart.ru/articles/mathematic/postroenie-grafikov-funkcij",
+    "title": "Построение и решение графиков Функций",
+    "icon": "",
+    "description": "Построение и решение графиков функции. Определение и примеры решения задач. Расскажем просто о сложных вещах!",
+    "rating":  0,
+    "is_blocked": 0,
+    "type": "text"
+  }
+]

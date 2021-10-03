@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.pointer-none{
+  cursor: default;
+}
+
+
+html {
+  --main: #F2C94D;
+  --second: #F2994A;
+}
+
+html[theme="blue"] {
+  --main: #0052D4;
+  --second: #6FB1FC;
+}
+
+html[theme="purple"] {
+  --main: #4b0082;
+  --second: #9400d3;
+}
+
+html[theme="red"] {
+  --main: #F15F79;
+  --second: #C84E89;
+}
+
+html[theme="cyan"] {
+  --main: #00F5A0;
+  --second: #00D9F5;
+}
+
+$gradient: linear-gradient(to right, var(--main) 0%, var(--second) 100%);
+$wkgradient: -webkit-linear-gradient(to right, var(--main) 0%, var(--second) 100%);
+$mozgradient: -moz-linear-gradient(to right, var(--main) 0%, var(--second) 100%);
+
+.spinner-grow{
+  background: var(--main);
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+button{
+  transition: all .3s ease;
+}
+button:hover{
+  opacity: 0.7;
+}
+button:disabled{
+  opacity: 0.5;
+  filter: brightness(0.9);
+}
+
+.transition{
+  transition: all .3s ease;
+}
+
+.subject-name, .thanks {
+  font-weight: 500;
+  background: #F2C94D;
+  background: $wkgradient;
+  background: $mozgradient;
+  background: $gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

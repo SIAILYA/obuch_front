@@ -1,0 +1,1 @@
+export const BACKEND = "https://api.obuchalochka.flint3s.ru"
