@@ -89,7 +89,7 @@ export default {
       }
     },
     sendReport() {
-      axios.post(BACKEND + "/block_site", {url: origin, reason: "Захотелось"}).then(() => {
+      axios.post(BACKEND + "/block_site", {url: this.origin, reason: "Захотелось"}).then(() => {
         this.$bvModal.show("reported")
       })
     }

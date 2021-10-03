@@ -1,1 +1,1 @@
-export const BACKEND = "https://api.obuchalochka.flint3s.ru"
+export const BACKEND = "https://7328-178-66-158-237.ngrok.io/"
